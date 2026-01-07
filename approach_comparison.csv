@@ -1,0 +1,5 @@
+Approach,Accuracy (%),Mean Absolute Error,JSON Validity Rate (%),Valid Predictions,Total Reviews
+Simple Direct,59.50,0.455,100.00,200,200
+Few-Shot Learning,59.00,0.445,100.00,200,200
+Chain-of-Thought,54.50,0.500,100.00,200,200
+Structured Analysis,56.50,0.475,100.00,200,200
